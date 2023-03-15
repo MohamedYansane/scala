@@ -1,0 +1,4 @@
+# ignoring  .ipynb_checkpoints/ folder
+.ipynb_checkpoints/
+# ignoring .idea/ folder too
+/.idea/
